@@ -1,13 +1,28 @@
 <h1 align="center">I'm Grand Lotus Iroh</h1>
 <h2 align="center">
 <!--   <img src="https://komarev.com/ghpvc/?username=grand-lotus-iroh&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;"> -->
-  Son of Fire Lord Azulon
+  Son of Fire Lord Azulon, Father of Lu Ten. 🍃
 <!--   <a href="https://[your-portfolio-link]">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a> -->
 </h2>
 <div align="center">
- <img alt="GIF" src="https://i.giphy.com/uTpY9ARfN2eqs.webp" />
+ <a href="https://www.youtube.com/watch?v=f56Cbjwwv-E"><img alt="GIF" src="https://i.giphy.com/uTpY9ARfN2eqs.webp" /><br/>Click! Watch Uncle Iroh sing happy birthday to his son...</a>
+  <br/><br/>
+  In war, there are no winners... only mothers with dead children.
+  <br/><br/>
+
+Happy birthday, my son. <br/>
+If only I could have helped you. <br/>
+♪ Leaves from the vine ♪ <br/>
+♪ Falling so slow ♪ <br/>
+♪ Like fragile tiny shells ♪ <br/>
+♪ Drifting in the foam ♪ <br/>
+♪ Little soldier boy ♪ <br/>
+♪ Come marching home ♪ <br/>
+♪ Brave soldier boy ♪ <br/>
+♪ Comes marching home ♪ <br/>
+  
 </div>
 
 ## 🔥 About Me <img src="https://komarev.com/ghpvc/?username=grand-lotus-iroh&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;" align="right">
