@@ -1,4 +1,4 @@
-<h1 align="center">I'm Grand Lotus Iroh</h1>
+<h1 align="center">I'm Grand Lotus Iroh <img src="https://vignette.wikia.nocookie.net/avatar/images/c/c4/White_lotus_tile_icon.png" width="26" position: relative; top: 4px;"></h1>
 <h2 align="center">
 <!--   <img src="https://komarev.com/ghpvc/?username=grand-lotus-iroh&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;"> -->
   Son, of Fire Lord Azulon — Father, of Lu Ten. 🍃
